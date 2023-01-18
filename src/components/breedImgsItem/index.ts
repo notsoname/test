@@ -1,0 +1,1 @@
+export { BreedImgsItem } from './breedImgsItem'
